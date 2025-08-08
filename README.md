@@ -1,12 +1,24 @@
+# 🦅 LuckyJet Telegram Bot
+
 ## 🎯 Présentation du projet
+[➡️ Texte que tu as déjà mis dans ton README — validé et stylé]
 
-**LuckyJet Telegram Bot** est un outil automatisé conçu pour surveiller les résultats du jeu *Lucky Jet* et envoyer des alertes en temps réel via Telegram.  
-Développé avec passion par **jojo24T31**, ce projet allie **précision technique**, **sécurité des données**, et **identité culturelle forte**.
+## 🛠️ Fonctionnalités principales
+[➡️ Texte que je t’ai envoyé ici : scraping, alertes, boucle, sécurité, branding]
 
-Ce bot permet aux utilisateurs de :
+## 📦 Installation et configuration
+[➡️ Étapes d’installation que je viens de te donner : clone, .env, pip, lancement]
 
-- 📡 Scraper les données du jeu Lucky Jet depuis une URL définie  
-- 🔔 Recevoir des notifications Telegram dès qu’un résultat est détecté  
-- 🔁 Automatiser la surveillance grâce à une boucle d’alerte continue
+## 🗃️ Structure du projet
+[➡️ À venir — je peux te le rédiger maintenant si tu veux]
 
-Le projet s’inscrit dans une démarche de **qualité trois étoiles ⭐⭐⭐**, avec une documentation claire, un code structuré, et une intégration respectueuse des valeurs Ivoiriennes 🇨🇮.
+## 🔐 Sécurité et bonnes pratiques
+[➡️ On pourra y rappeler de ne jamais pousser `.env`, utiliser `.gitignore`, etc.]
+
+## 🇨🇮 Branding et identité
+[➡️ Tu pourras y parler des trois étoiles ⭐⭐⭐, du style francophone, et de ton approche]
+
+## 🙌 Crédits et remerciements
+Développé avec passion par **jojo24T31**  
+Avec l’accompagnement collaboratif de l’IA Microsoft Copilot 🤝  
+Projet structuré avec rigueur, fierté et identité 🇨🇮
